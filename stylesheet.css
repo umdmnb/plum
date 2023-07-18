@@ -1,0 +1,11 @@
+.header {
+  font-size: 25px;
+  padding: 50px 50px;
+}
+.header img{
+  float:left;
+}
+.insta img{
+  width: 20%;
+  padding: 200px;
+}
