@@ -8,5 +8,8 @@
 .insta img{
   width: 20%;
   padding: 200px;
-  float: right;
+  float:right;
+}
+.ns img{
+  width: 30%;
 }
