@@ -7,9 +7,20 @@
 }
 .insta img{
   width: 20%;
-  padding: 200px;
+  padding: 50px;
   float:right;
+}
+.insta p{
+  padding: 450px;
+  padding-left: 1200px;
 }
 .ns img{
   width: 30%;
+}
+.layout {
+  padding-top: 50px;
+  float: right;
+}
+.layout p{
+  font-size: medium;
 }
